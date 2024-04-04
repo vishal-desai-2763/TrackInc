@@ -204,6 +204,7 @@ table tr td {
     border: none;
     color: #fff;
     Padding: 8px 12px 8px 12px;
+    cursor: pointer;
 }
 
 .sent_btn {
@@ -272,7 +273,7 @@ table tr td {
 
 }
 
-.waren {}
+
 
 .name_events span {
     display: flex;
@@ -332,7 +333,7 @@ table tr td {
     padding-top: 47px;
 }
 
-.dollar {}
+
 
 .event_text {
     width: 48px;
@@ -366,7 +367,7 @@ table tr td {
 .logo img {
     width: 120px;
     height: 29.45px;
-
+    cursor: pointer;
 }
 
 .logo {
